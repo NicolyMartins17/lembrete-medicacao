@@ -19,7 +19,4 @@ Este é um simples aplicativo de lembrete de medicação desenvolvido em Python 
 
 ## Instalação
 
-1. Clone este repositório:
-
-   git clone https://github.com/SEU_USUARIO/lembrete-medicacao.git
-
+👉 Acesse o repositório aqui: https://github.com/NicolyMartins17/lembrete-medicacao
